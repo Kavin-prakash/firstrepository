@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kavin.senthil\\Desktop\\Github repository\\firstrepository\\firstrepository.csproj",
+      "projectUniqueName": "c:\\Users\\kavin.senthil\\Desktop\\Github repository\\fake\\firstrepository\\firstrepository.csproj",
       "projectName": "firstrepository",
-      "projectPath": "C:\\Users\\kavin.senthil\\Desktop\\Github repository\\firstrepository\\firstrepository.csproj",
+      "projectPath": "c:\\Users\\kavin.senthil\\Desktop\\Github repository\\fake\\firstrepository\\firstrepository.csproj",
       "packagesPath": "C:\\Users\\kavin.senthil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kavin.senthil\\Desktop\\Github repository\\firstrepository\\obj\\",
+      "outputPath": "c:\\Users\\kavin.senthil\\Desktop\\Github repository\\fake\\firstrepository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kavin.senthil\\AppData\\Roaming\\NuGet\\NuGet.Config"
